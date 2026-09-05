@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A hands-on learning repository tracking the full journey through the **Generative AI / RAG (Retrieval-Augmented Generation) pipeline** — from raw text to LLM-powered answers.
 
