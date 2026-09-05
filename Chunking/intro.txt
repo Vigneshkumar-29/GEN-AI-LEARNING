@@ -1,0 +1,42 @@
+what is chunking.
+converting the documents into small data it called chunks.
+
+where we use chunking?
+we use before embedding in rag.
+
+why chunking?
+to preserve the meaning of the context
+and
+during retrial part we'll get the exact output if we used chunking , 
+or-else
+wrong output we get.
+
+RAG 
+
+documents --> text normalization --> chunking --> embedding --> vectorDB
+
+when we convrt chunk into vector by using embedding internally it stores as chunk inside
+token then vector.
+
+types of chunking in RAG.
+
+1. fixed size + chunk overlapping.
+2. recursive chunk.
+3. sentence based chunking.
+4. sematic chunking.
+5. documents structured chunking.
+6. word based chunking.
+
+1. fixed size chunking.
+- it split based on the chunk size.
+- if chunk size is 100.
+- for 1 chunk it keep 100 character.
+
+Disadvantage of fixed size
+
+context is 'it split based on the chunk size'
+chunk size is 10
+chunk 1 --> it split b
+chunk 2 --> ased on th
+
+here it breaks the word . so mostly the fixed size chunk is not use in 
