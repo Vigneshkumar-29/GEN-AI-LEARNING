@@ -1,0 +1,11 @@
+customer_id,customer_name,product,amount,city,sale_date
+101,Arun,Laptop,55000,Bengaluru,2026-01-05
+102,Priya,Phone,30000,Chennai,2026-01-08
+103,Kumar,Laptop,72000,Coimbatore,2026-01-10
+104,Divya,Tablet,25000,Bengaluru,2026-01-15
+105,Rahul,Phone,28000,Chennai,2026-01-18
+106,Sneha,Headphones,5000,Bengaluru,2026-02-02
+107,Vijay,Laptop,65000,Hyderabad,2026-02-10
+108,Anitha,Tablet,22000,Coimbatore,2026-02-14
+109,Ravi,Phone,35000,Bengaluru,2026-02-20
+110,Meena,Laptop,80000,Chennai,2026-03-01
